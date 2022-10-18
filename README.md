@@ -1,2 +1,2 @@
-# Squirrel-Harvester-REPO
+# Squirrel-Harvester
  First Unity idle game
